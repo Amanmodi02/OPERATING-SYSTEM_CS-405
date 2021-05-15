@@ -1,6 +1,6 @@
-int size = 8;
 #include <bits/stdc++.h>
 using namespace std;
+int size = 8;
 int disk_size = 200;
  
 void LOOK(int arr[], int head, string direction)
